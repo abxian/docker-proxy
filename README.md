@@ -1,0 +1,2 @@
+# docker-proxy
+docker下使用nginx反代dockerhub进行国内镜像加速
